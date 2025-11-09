@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-**Chimwala-Tembo/Chimwala-Tembo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 A lover of finance who is committed to a life-long learning journey...isn't technology just awesome?!
