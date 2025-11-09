@@ -27,7 +27,7 @@ my ultimate goal is to gain a foundational understanding of software development
 
 - ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white)
 
- ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3)
+- ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3)
 
 **Future Technologies:**
 
